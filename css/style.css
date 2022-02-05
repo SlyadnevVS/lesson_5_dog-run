@@ -1,0 +1,88 @@
+@import "null.css";
+
+@import url(https://fonts.googleapis.com/css?family=Jura:,regular,700&display=swap);
+.wrapper {
+    min-height: 100%;
+    overflow: hidden;
+}
+
+.title {
+    text-align: center;
+    padding: 50px 0 0 0;
+    font-family: Jura, sans-serif;
+    font-weight: bold;
+    font-size: 30px;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+}
+
+.road {
+    max-width: 800px;
+}
+
+.dog {
+    display: inline-block;
+}
+
+.dog2 {
+    display: inline-block;
+    margin: 0 0 0 50px;
+}
+
+.dog3 {
+    display: inline-block;
+    margin: 0 0 0 150px;
+}
+
+.dog4 {
+    display: inline-block;
+    margin: 0 0 0 250px;
+}
+
+.dog5 {
+    display: inline-block;
+    margin: 0 0 0 350px;
+}
+
+.dog6 {
+    display: inline-block;
+    margin: 0 0 0 400px;
+}
+
+.eat {
+    display: inline-block;
+    margin: 50px 0 0 300px;
+    width: 100px;
+}
+
+.eat2 {
+    display: inline-block;
+    margin: 50px 0 0 250px;
+    width: 100px;
+}
+
+.eat3 {
+    display: inline-block;
+    margin: 50px 0 0 150px;
+    width: 100px;
+}
+
+.eat4 {
+    display: inline-block;
+    margin: 50px 0 0 50px;
+    width: 100px;
+}
+
+.eat5 {
+    display: inline-block;
+    margin: 50px 0 0 -50px;
+    width: 100px;
+}
+.link {
+    display: inline-block;
+    margin: 0 0 0 50px;
+    font-family: Jura, serif;
+    font-size: 25px;
+    color: rgb(6, 158, 69);
+    text-shadow: 2px 2px 5px rgb(53, 177, 53);
+}
